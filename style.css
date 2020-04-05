@@ -1,4 +1,9 @@
-h1 {
-    font-size: large;
-    color: cadetblue;
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+embed {
+    width: 60%;
+    height: 100%;
 }
